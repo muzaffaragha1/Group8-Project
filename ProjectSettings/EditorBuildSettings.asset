@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0b6eceea66c26784bb6f626fc58e23b2
+  - enabled: 1
+    path: Assets/Scenes/Muzafar.unity
+    guid: 7f37620dacd56634980277577776b06e
+  - enabled: 1
+    path: Assets/Scenes/Javaria.unity
+    guid: ba2d6075efac2f146804915e37bae2a6
+  - enabled: 1
+    path: Assets/Scenes/Kiran.unity
+    guid: 2baff6d9cbba1684eb1fe650c9e292bd
+  - enabled: 1
+    path: Assets/Scenes/Palindrome.unity
+    guid: b6cb794a24f77a649aff0492ee392362
+  m_configObjects: {}
