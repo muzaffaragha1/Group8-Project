@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 484e7805ad995b745af6ccc0920e53c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myFx: {instanceID: 0}
+  - spaceFx: {fileID: 8300000, guid: 01fd566401477da4d81a42c8f31b507e, type: 3}
+  - inputField: {instanceID: 0}
+  - cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
